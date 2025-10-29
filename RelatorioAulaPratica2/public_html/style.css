@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Oct 27, 2025, 8:34:57 PM
+    Author     : alejandro
+*/
+
+/* Define uma cor de fundo clara para todo o corpo da página */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Deixa o título em uma cor que combina com o Bootstrap */
+h2 {
+    color: #0d6efd; /* Azul do Bootstrap primary */
+}
