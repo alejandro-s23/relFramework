@@ -38,7 +38,7 @@ Os projetos estão organizados em pastas, refletindo a ordem das aulas práticas
 | :--- | :--- | :--- |
 | **RelatorioAulaPratica1** | Configuração inicial do ambiente Tomcat 9.0 com um projeto base Spring Web MVC. | Java, Tomcat, Spring MVC |
 | **RelatorioAulaPratica2** | Formulário de endereço com consumo de API ViaCEP via Javascript puro. | HTML5, Bootstrap 5, Javascript |
-| **cadastroUsuario** | (Nome requisitado pela Universidade) Formulário de cadastro de 12 campos estruturado com Spring Web MVC e estilizado via Bootstrap 5. | Java, Spring MVC, Bootstrap 5 |
+| **cadastroUsuario** | **(Nome requisitado pela Universidade)** Formulário de cadastro de 12 campos estruturado com Spring Web MVC e estilizado via Bootstrap 5. | Java, Spring MVC, Bootstrap 5 |
 | **RelatorioAulaPratica4** | Formulário de cadastro com consumo de API (`main.js`) e validação de campos obrigatórios/E-mail via **JQuery** (`validation.js`). | HTML5, Bootstrap 5, Javascript, JQuery |
 
 ---
@@ -50,7 +50,7 @@ Para executar os projetos Spring Web MVC (Práticas 1 e 3), siga os passos abaix
 1.  **Pré-requisitos:** Certifique-se de ter o **Java JDK** e o **Apache Tomcat 9.0** instalados e configurados.
 2.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/alejandro-s23/seu-repositorio-aqui.git](https://github.com/alejandro-s23/seu-repositorio-aqui.git)
+    git clone https://github.com/alejandro-s23/relFramework.git
     ```
 3.  **Importe no NetBeans:** Abra a IDE NetBeans e utilize a opção "Open Project" para importar as pastas `RelatorioAulaPraticaX`.
 4.  **Configurar Tomcat:** Confirme se o Tomcat 9.0 está configurado nas propriedades de cada projeto Java Web.
